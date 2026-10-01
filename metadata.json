@@ -1,0 +1,6 @@
+{
+  "name": "LLM Guardrail Tester",
+  "description": "Test and evaluate LLM claim verification and guardrails against supporting evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
